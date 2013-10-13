@@ -1,0 +1,9 @@
+{
+  "modules" : { 
+    "raspeak"  : {
+      "description": "Faire parler SARAH lorsqu'elle est installée sur un Raspberry Pi.",
+      "output" : "local",
+      "version"    : "0.1"
+    }
+  }
+}
